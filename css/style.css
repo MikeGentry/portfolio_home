@@ -1,0 +1,42 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body {
+
+
+}
+
+.main-div {
+    font-family: 'Roboto', sans-serif;
+    background: linear-gradient(45deg, lightslategrey, white);
+    position: absolute;
+    height: 100%;
+    width: 100%;
+
+}
+
+.info {
+    text-align: center;
+    margin-top: 300px;
+}
+
+.links {
+    text-align: center;
+}
+
+.github img {
+    text-align: center;
+    margin-top: 20px;
+    height: 2em;
+
+}
+
+.name {
+    font-family: 'Yatra One', cursive;
+}
+
+
+
+
