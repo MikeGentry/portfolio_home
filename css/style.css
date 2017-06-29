@@ -26,12 +26,20 @@ body {
     text-align: center;
 }
 
-.github img {
-    text-align: center;
-    margin-top: 20px;
-    height: 2em;
+.tic-tac-toe {
+    /*text-align: center;*/
+    font-family: 'Love Ya Like A Sister', cursive;
+
 
 }
+
+.github img {
+    /*text-align: center;*/
+    margin-top: 20px;
+    height: 2em;
+}
+
+
 
 .name {
     font-family: 'Yatra One', cursive;
