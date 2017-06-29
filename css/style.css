@@ -3,18 +3,21 @@
     margin: 0;
 }
 
-body {
+a {
+    outline: none;
+    text-decoration: none;
+}
 
-
+a:hover {
+    font-size: 3em;
 }
 
 .main-div {
     font-family: 'Roboto', sans-serif;
-    background: linear-gradient(45deg, lightslategrey, white);
+    background: linear-gradient(45deg, #778899, #ffffff);
     position: absolute;
     height: 100%;
     width: 100%;
-
 }
 
 .info {
@@ -23,18 +26,17 @@ body {
 }
 
 .links {
+    margin-top: 20px;
     text-align: center;
 }
 
 .tic-tac-toe {
-    /*text-align: center;*/
     font-family: 'Love Ya Like A Sister', cursive;
-
-
+    color: black;
+    font-size: 2em;
 }
 
 .github img {
-    /*text-align: center;*/
     margin-top: 20px;
     height: 2em;
 }
